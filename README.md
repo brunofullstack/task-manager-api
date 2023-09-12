@@ -1,9 +1,9 @@
 # Gestão de Usuários e Lista de Tarefas API
 
-## Instalação
+# Instalação
 1. Clone o repo
 ```
-https://github.com/brunofullstack/task-manager-api.git
+https://github.com/iamrafehdev/laravel-lumen-REST-API-jwt-auth.git
 ```
 
 2. Instale pacotes composer
